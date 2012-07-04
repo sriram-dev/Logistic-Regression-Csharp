@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="fd4f1125-a6b8-4e05-b786-ff665ddd0c44" name="Administrator@DESIKAN 2012-07-04 19:08:38" runUser="DESIKAN\Administrator" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="dec9f07d-adcd-413e-95d2-bbaab9548edf">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Administrator_DESIKAN 2012-07-04 19_08_38">
+      <DeploymentItem filename="C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\Logistic Regression\Logistic Regression\bin\Debug\Logistic Regression.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2012-07-04T19:08:38.0937500+05:30" queuing="2012-07-04T19:08:38.6250000+05:30" start="2012-07-04T19:08:38.6718750+05:30" finish="2012-07-04T19:08:39.2187500+05:30" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestLearn" storage="c:\documents and settings\administrator\my documents\visual studio 2010\projects\logistic regression\logisticregressiontest\bin\debug\logisticregressiontest.dll" id="dd7a92ba-c337-14dd-e2ab-a3de09814f6f">
+      <Execution id="c0f97b24-8975-48fc-acc0-ec049363d105" />
+      <TestMethod codeBase="C:/Documents and Settings/Administrator/my documents/visual studio 2010/Projects/Logistic Regression/LogisticRegressionTest/bin/Debug/LogisticRegressionTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="LogisticRegressionTest.LogisticRegressionTest, LogisticRegressionTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestLearn" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="dd7a92ba-c337-14dd-e2ab-a3de09814f6f" executionId="c0f97b24-8975-48fc-acc0-ec049363d105" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="c0f97b24-8975-48fc-acc0-ec049363d105" testId="dd7a92ba-c337-14dd-e2ab-a3de09814f6f" testName="TestLearn" computerName="DESIKAN" duration="00:00:00.0181450" startTime="2012-07-04T19:08:38.7031250+05:30" endTime="2012-07-04T19:08:39.1718750+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c0f97b24-8975-48fc-acc0-ec049363d105">
+      <Output>
+        <StdOut>cost: -1.96663136025422
+cost: -2.12674731254724
+cost: -2.28548426206148
+cost: -2.44321436929547
+cost: -2.6002084880436
+cost: -2.75666413244726
+cost: -2.91272555088328
+cost: -3.0684982089094
+cost: -3.22405928092778
+cost: -3.37946527431569
+cost: -3.53475758295668
+cost: -3.68996653976695
+cost: -3.84511437786688
+cost: -4.00021739645957
+cost: -4.15528754617691
+cost: -4.3103335901319
+cost: -4.4653619545742
+cost: -4.62037735231334
+cost: -4.77538323971537
+cost: -4.93038215173831
+cost: -5.08537594760958
+cost: -5.24036599097074
+cost: -5.39535328199041
+cost: -5.55033855424379
+cost: -5.70532234580041
+cost: -5.86030505131097
+cost: -6.01528696020504
+cost: -6.17026828483617
+cost: -6.32524918091419
+cost: -6.48022976262998
+cost: -6.6352101137852
+cost: -6.79019029588364
+cost: -6.94517035387753
+cost: -7.10015032100704
+cost: -7.25513022135691
+cost: -7.41011007279724
+cost: -7.56508988792021
+cost: -7.72006967701583
+cost: -7.87504944698361
+cost: -8.03002920272747
+cost: -8.18500894724065
+cost: -8.33998868661166
+cost: -8.49496841856501
+cost: -8.64994814780518
+cost: -8.80492786799328
+cost: -8.95990759165203
+cost: -9.11488731237192
+cost: -9.26986703961511
+cost: -9.42484674214436
+cost: -9.5798264579245
+cost: -9.73480619887664
+cost: -9.88978591929022
+cost: -10.0447656269629
+cost: -10.1997453119762
+cost: -10.354725104875
+cost: -10.5097047454087
+cost: -10.664684539857
+cost: -10.8196640762638
+cost: -10.974643882462
+cost: -11.1296235825623
+cost: -11.2846033936237
+cost: -11.4395827495731
+cost: -11.5945622284365
+cost: -11.7495425247109
+cost: -11.9045215248659
+cost: -12.0595027699743
+cost: -12.2144800300278
+cost: -12.369459234926
+cost: -12.524442101653
+cost: -12.6794250396724
+cost: -12.8343987495602
+cost: -12.989370495867
+cost: -13.1443748775221
+cost: -13.2993305612445
+cost: -13.4542948263928
+cost: -13.6092951240971
+cost: -13.7642673804636
+cost: -13.9192779057309
+cost: -14.0742380311255
+cost: -14.229351049569
+cost: -14.3840650095248
+cost: -14.5391755085947
+cost: -14.6942079256724
+cost: -14.8489783588046
+cost: -15.0043070161294
+cost: -15.1591561176375
+cost: -15.3145450112607
+cost: -15.4694101160975
+cost: -15.6250669545901
+cost: -15.7762073905265
+cost: -15.9339658262491
+cost: -16.0942017738865
+cost: -16.2492792380385
+cost: -16.4085061035977
+cost: -16.5523471398236
+cost: -16.7150583400409
+cost: -16.8462404722747
+cost: -17.0245779442441
+cost: -17.1928140625547
+cost: -17.3043858382118
+cost: -17.4482268744377
+cost: -17.6509594284917
+cost: -17.6509594284917
+0.952574126822433 
+1</StdOut>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

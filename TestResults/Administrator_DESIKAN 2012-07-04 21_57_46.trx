@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="5352964c-beba-4447-89a1-f1e6bfee98d6" name="Administrator@DESIKAN 2012-07-04 21:57:46" runUser="DESIKAN\Administrator" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="dec9f07d-adcd-413e-95d2-bbaab9548edf">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment runDeploymentRoot="Administrator_DESIKAN 2012-07-04 21_57_46">
+      <DeploymentItem filename="C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\Logistic Regression\Logistic Regression\bin\Debug\Logistic Regression.dll" />
+      <DeploymentItem filename="LogisticRegressionTest\bin\Debug\" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific>
+        <UnitTestRunConfig testTypeId="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b">
+          <AssemblyResolution>
+            <TestDirectory useLoadContext="true" />
+          </AssemblyResolution>
+        </UnitTestRunConfig>
+      </TestTypeSpecific>
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2012-07-04T21:57:46.7656250+05:30" queuing="2012-07-04T21:57:48.4218750+05:30" start="2012-07-04T21:57:48.4843750+05:30" finish="2012-07-04T21:57:49.0468750+05:30" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestFileRead" storage="c:\documents and settings\administrator\my documents\visual studio 2010\projects\logistic regression\logisticregressiontest\bin\debug\logisticregressiontest.dll" id="0375d41c-b09b-af9e-7b09-ceb8fdcce24a">
+      <Execution id="7cc2e013-eaed-48d2-b5a4-58148ed1615f" />
+      <TestMethod codeBase="C:/Documents and Settings/Administrator/my documents/visual studio 2010/Projects/Logistic Regression/LogisticRegressionTest/bin/Debug/LogisticRegressionTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="LogisticRegressionTest.LogisticRegressionTest, LogisticRegressionTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestFileRead" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="0375d41c-b09b-af9e-7b09-ceb8fdcce24a" executionId="7cc2e013-eaed-48d2-b5a4-58148ed1615f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="7cc2e013-eaed-48d2-b5a4-58148ed1615f" testId="0375d41c-b09b-af9e-7b09-ceb8fdcce24a" testName="TestFileRead" computerName="DESIKAN" duration="00:00:00.0270520" startTime="2012-07-04T21:57:48.5156250+05:30" endTime="2012-07-04T21:57:49.0000000+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="7cc2e013-eaed-48d2-b5a4-58148ed1615f">
+      <Output>
+        <DebugTrace>6.1101
+</DebugTrace>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="d8c3381c-c5a8-4d5b-88d0-58d67f0c771b" name="Administrator@DESIKAN 2012-07-04 19:18:23" runUser="DESIKAN\Administrator" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="dec9f07d-adcd-413e-95d2-bbaab9548edf">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Administrator_DESIKAN 2012-07-04 19_18_23">
+      <DeploymentItem filename="C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\Logistic Regression\Logistic Regression\bin\Debug\Logistic Regression.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2012-07-04T19:18:23.8437500+05:30" queuing="2012-07-04T19:18:24.3750000+05:30" start="2012-07-04T19:18:24.4375000+05:30" finish="2012-07-04T19:18:24.9687500+05:30" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestLearn" storage="c:\documents and settings\administrator\my documents\visual studio 2010\projects\logistic regression\logisticregressiontest\bin\debug\logisticregressiontest.dll" id="dd7a92ba-c337-14dd-e2ab-a3de09814f6f">
+      <Execution id="0ce670bb-5aa8-4f96-97d6-c83f97b3b79b" />
+      <TestMethod codeBase="C:/Documents and Settings/Administrator/my documents/visual studio 2010/Projects/Logistic Regression/LogisticRegressionTest/bin/Debug/LogisticRegressionTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="LogisticRegressionTest.LogisticRegressionTest, LogisticRegressionTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestLearn" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="dd7a92ba-c337-14dd-e2ab-a3de09814f6f" executionId="0ce670bb-5aa8-4f96-97d6-c83f97b3b79b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="0ce670bb-5aa8-4f96-97d6-c83f97b3b79b" testId="dd7a92ba-c337-14dd-e2ab-a3de09814f6f" testName="TestLearn" computerName="DESIKAN" duration="00:00:00.0178964" startTime="2012-07-04T19:18:24.4843750+05:30" endTime="2012-07-04T19:18:24.9218750+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="0ce670bb-5aa8-4f96-97d6-c83f97b3b79b">
+      <Output>
+        <StdOut>cost: 1.51898207827961
+cost: 1.33227831198312
+output:
+0.952574126822433 
+0.982013790037908 
+0.993307149075715 
+0.994782101894461</StdOut>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

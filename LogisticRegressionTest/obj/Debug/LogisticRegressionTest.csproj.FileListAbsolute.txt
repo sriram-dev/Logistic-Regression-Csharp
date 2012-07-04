@@ -1,0 +1,8 @@
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\Logistic Regression\LogisticRegressionTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\Logistic Regression\LogisticRegressionTest\bin\Debug\LogisticRegressionTest.dll
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\Logistic Regression\LogisticRegressionTest\bin\Debug\LogisticRegressionTest.pdb
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\Logistic Regression\LogisticRegressionTest\bin\Debug\Logistic Regression.dll
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\Logistic Regression\LogisticRegressionTest\bin\Debug\Logistic Regression.pdb
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\Logistic Regression\LogisticRegressionTest\obj\Debug\LogisticRegressionTest.dll
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\Logistic Regression\LogisticRegressionTest\obj\Debug\LogisticRegressionTest.pdb
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\Logistic Regression\LogisticRegressionTest\bin\Debug\ex1data1.txt

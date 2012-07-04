@@ -1,0 +1,9 @@
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Logistic Regression\Logistic Regression\bin\Debug\Logistic Regression.dll
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Logistic Regression\Logistic Regression\bin\Debug\Logistic Regression.pdb
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Logistic Regression\Logistic Regression\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Logistic Regression\Logistic Regression\obj\x86\Debug\Logistic Regression.dll
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Logistic Regression\Logistic Regression\obj\x86\Debug\Logistic Regression.pdb
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\Logistic Regression\Logistic Regression\obj\x86\Debug\ActivityDesigner1.baml
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\Logistic Regression\Logistic Regression\obj\x86\Debug\ActivityDesigner1.g.cs
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\Logistic Regression\Logistic Regression\obj\x86\Debug\Logistic Regression_MarkupCompile.cache
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\Logistic Regression\Logistic Regression\obj\x86\Debug\Logistic Regression.g.resources
